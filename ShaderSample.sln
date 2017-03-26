@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderSample.Plugins", "ShaderSample.Plugins.csproj", "{93B8D1C3-CB3C-83A6-9B31-957383803E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderSample", "ShaderSample.csproj", "{166CEFA4-6A13-88A4-D587-5FBAF5DD6647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderSample.Editor.Plugins", "ShaderSample.Editor.Plugins.csproj", "{3C90233E-EA9E-1162-A0F8-252DD3A069BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderSample.Editor", "ShaderSample.Editor.csproj", "{A3D3CDB5-3485-649A-E977-6EE369D0D0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B8D1C3-CB3C-83A6-9B31-957383803E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B8D1C3-CB3C-83A6-9B31-957383803E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B8D1C3-CB3C-83A6-9B31-957383803E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B8D1C3-CB3C-83A6-9B31-957383803E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166CEFA4-6A13-88A4-D587-5FBAF5DD6647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166CEFA4-6A13-88A4-D587-5FBAF5DD6647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166CEFA4-6A13-88A4-D587-5FBAF5DD6647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166CEFA4-6A13-88A4-D587-5FBAF5DD6647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C90233E-EA9E-1162-A0F8-252DD3A069BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C90233E-EA9E-1162-A0F8-252DD3A069BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C90233E-EA9E-1162-A0F8-252DD3A069BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C90233E-EA9E-1162-A0F8-252DD3A069BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D3CDB5-3485-649A-E977-6EE369D0D0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D3CDB5-3485-649A-E977-6EE369D0D0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D3CDB5-3485-649A-E977-6EE369D0D0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D3CDB5-3485-649A-E977-6EE369D0D0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
